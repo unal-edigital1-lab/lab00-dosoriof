@@ -1,0 +1,28 @@
+timescale 1ns/1ps
+
+module Sum4bcc_TB;
+
+	//Entradas
+	reg [3:0] A;
+	reg [3:0] B;
+	
+	//Salidas
+	wire Cout;
+	wire [3:0] S;
+	
+	//Instanciar Sumador
+	
+	Sum4bcc uut( .A(A), .B(B), .co(Cout), .S(S));
+	
+	initial begin
+		A=0;
+		for (B=0; B<16; B=b+1) begin
+			if (B=0)
+				A=A+1;
+				#5 $display("el valor de %d + %d = %d", A,B,S);
+		end
+	end
+	
+
+endmodule
+

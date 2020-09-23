@@ -7,11 +7,11 @@ B[0] => B[0].IN1
 B[1] => B[1].IN1
 B[2] => B[2].IN1
 B[3] => B[3].IN1
-co <= sum1bcc:s3.Cout
-S[0] <= sum1bcc:s0.S
-S[1] <= sum1bcc:s1.S
-S[2] <= sum1bcc:s2.S
-S[3] <= sum1bcc:s3.S
+co << sum1bcc:s3.Cout
+S[0] << sum1bcc:s0.S
+S[1] << sum1bcc:s1.S
+S[2] << sum1bcc:s2.S
+S[3] << sum1bcc:s3.S
 
 
 |Sum4bcc|sum1bcc:s0

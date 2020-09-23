@@ -8,53 +8,78 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/simulation/modelsim
+Z0 dC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/simulation/modelsim
 vsum1bcc
-Z1 !s110 1600297411
+Z1 !s110 1600877649
 !i10b 1
 !s100 kbd>86O=0<2:dcRSLWeg_0
 Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
-Id_iYh10W]12h6HEc^@<A>3
+Ik31Ue3?4]jOY^1S7JUD`k3
 Z3 VDg1SIo80bB@j0V0VzS_@n1
 R0
 w1599670210
-8C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/sum1bcc.v
-FC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/sum1bcc.v
+8C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/sum1bcc.v
+FC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/sum1bcc.v
 !i122 0
 L0 1 17
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-!s108 1600297410.000000
-!s107 C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/sum1bcc.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4|C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/sum1bcc.v|
+!s108 1600877648.000000
+!s107 C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/sum1bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4|C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/sum1bcc.v|
 !i113 1
 Z5 o-vlog01compat -work work
-Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4}
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4}
 Z7 tCvgOpt 0
 vSum4bcc
 R1
 !i10b 1
 !s100 U:odlo2NoSz_be0_6@^Dd1
 R2
-IoaEk`A6[56zl?:ZlJlbgG1
+Iaj06eT5[BXJ1Md;O8RNN>3
 R3
 R0
-w1600297204
-8C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/Sum4bcc.v
-FC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/Sum4bcc.v
+w1600474699
+8C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc.v
+FC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc.v
 !i122 1
 L0 1 15
 R4
 r1
 !s85 0
 31
-!s108 1600297411.000000
-!s107 C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/Sum4bcc.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4|C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/Sum4bcc.v|
+Z8 !s108 1600877649.000000
+!s107 C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4|C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc.v|
 !i113 1
 R5
 R6
 R7
 n@sum4bcc
+vSum4bcc_TB
+R1
+!i10b 1
+!s100 =FH=f@C2J?c[N2<ROnEVz0
+R2
+I4eV8Xf7L]RV@Y`iejK?GU3
+R3
+R0
+w1600877627
+8C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc_TB.v
+FC:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc_TB.v
+!i122 2
+L0 2 35
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4|C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc_TB.v|
+!i113 1
+R5
+R6
+R7
+n@sum4bcc_@t@b

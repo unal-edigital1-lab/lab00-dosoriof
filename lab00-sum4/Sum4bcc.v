@@ -1,4 +1,4 @@
-module Sum4bcc (A, B,co,S);
+module Sum4bcc (A,B,co,S);
 
   input [3 :0] A;
   input [3 :0] B;

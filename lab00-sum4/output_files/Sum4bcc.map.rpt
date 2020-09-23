@@ -1,5 +1,5 @@
 Analysis & Elaboration report for Sum4bcc
-Wed Sep 16 18:02:01 2020
+Wed Sep 23 11:13:57 2020
 Quartus Prime Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
 
 
@@ -38,7 +38,7 @@ https://fpgasoftware.intel.com/eula.
 +----------------------------------------------------------------------------------+
 ; Analysis & Elaboration Summary                                                   ;
 +------------------------------------+---------------------------------------------+
-; Analysis & Elaboration Status      ; Successful - Wed Sep 16 18:02:01 2020       ;
+; Analysis & Elaboration Status      ; Successful - Wed Sep 23 11:13:57 2020       ;
 ; Quartus Prime Version              ; 20.1.0 Build 711 06/05/2020 SJ Lite Edition ;
 ; Revision Name                      ; Sum4bcc                                     ;
 ; Top-level Entity Name              ; Sum4bcc                                     ;
@@ -173,21 +173,23 @@ https://fpgasoftware.intel.com/eula.
 Info: *******************************************************************
 Info: Running Quartus Prime Analysis & Elaboration
     Info: Version 20.1.0 Build 711 06/05/2020 SJ Lite Edition
-    Info: Processing started: Wed Sep 16 18:01:31 2020
+    Info: Processing started: Wed Sep 23 11:13:48 2020
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off lab00-sum4 -c Sum4bcc --analysis_and_elaboration
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
 Info (12021): Found 1 design units, including 1 entities, in source file sum1bcc.v
-    Info (12023): Found entity 1: sum1bcc File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/sum1bcc.v Line: 1
+    Info (12023): Found entity 1: sum1bcc File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/sum1bcc.v Line: 1
 Info (12021): Found 1 design units, including 1 entities, in source file sum4bcc.v
-    Info (12023): Found entity 1: Sum4bcc File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/Sum4bcc.v Line: 1
+    Info (12023): Found entity 1: Sum4bcc File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc.v Line: 1
+Info (12021): Found 1 design units, including 1 entities, in source file sum4bcc_tb.v
+    Info (12023): Found entity 1: Sum4bcc_TB File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc_TB.v Line: 2
 Info (12127): Elaborating entity "Sum4bcc" for the top level hierarchy
-Info (12128): Elaborating entity "sum1bcc" for hierarchy "sum1bcc:s0" File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-sum4/Sum4bcc.v Line: 9
+Info (12128): Elaborating entity "sum1bcc" for hierarchy "sum1bcc:s0" File: C:/Users/difao/OneDrive/Documents/Digital I/Laboratorio/lab00-dosoriof/lab00-sum4/Sum4bcc.v Line: 9
 Warning (12241): 1 hierarchies have connectivity warnings - see the Connectivity Checks report folder
 Info: Quartus Prime Analysis & Elaboration was successful. 0 errors, 2 warnings
     Info: Peak virtual memory: 4710 megabytes
-    Info: Processing ended: Wed Sep 16 18:02:01 2020
-    Info: Elapsed time: 00:00:30
-    Info: Total CPU time (on all processors): 00:00:48
+    Info: Processing ended: Wed Sep 23 11:13:57 2020
+    Info: Elapsed time: 00:00:09
+    Info: Total CPU time (on all processors): 00:00:22
 
 
